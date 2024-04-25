@@ -9,7 +9,7 @@ Database using MySQL
  3.setting koneksi.php to database name  
  4.run your local server  
  5.open browser and run localhost  
- 6.admin page was at /admin_section  
+ 6.admin page was at /admin 
 
 ## Whats included ##  
 
@@ -24,5 +24,6 @@ Database using MySQL
 
 | Position   | Username    | Password     |
 |------------|-------------|--------------|
+| user       | user        | user         |
 | admin      | admin       | admin        |
 
